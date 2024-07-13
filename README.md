@@ -5,6 +5,11 @@
 Make sure Node.js and npm are installed and up to date.
 
 1. Git clone the repository
+
+```bash
+git clone https://github.com/IordanDenis/detect-stock-outlier.git
+```
+
 2. Once done, cd into the project folder
 
 ```bash
